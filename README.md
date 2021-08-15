@@ -8,6 +8,7 @@ Trail based keylogger
 to add liabrary go to here:
 https://www.lfd.uci.edu/~gohlke/pythonlibs/
 
+Use Ctrl + F to find easily
 
 Work In Progress
 
